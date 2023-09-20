@@ -1,0 +1,6 @@
+Hi! Thank you for using AT+Materials!
+
+We want to keep the first download as light as possible so we uploaded the textured Sample Scene here:
+https://atmaterials-cache.s3.eu-central-1.amazonaws.com/SampleScenes/ATM_SampleSceneBuiltin.unitypackage
+https://atmaterials-cache.s3.eu-central-1.amazonaws.com/SampleScenes/ATM_SampleSceneHDRP.unitypackage
+https://atmaterials-cache.s3.eu-central-1.amazonaws.com/SampleScenes/ATM_SampleSceneURP.unitypackage
